@@ -1,5 +1,5 @@
-/** Kellyn Mendez - CS 2337.003, Project 1
- *      NetID: kpm200000
+/** This project reads in customer information from a text file and tracks customer purchases and 
+ *  the rewards applied to each customer’s account
  */
 
 #include "Customer.h"
