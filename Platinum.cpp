@@ -1,4 +1,4 @@
-/** Gold Customer class header file
+/** Platinum Customer class header file
  */
 
 #include "Platinum.h"
