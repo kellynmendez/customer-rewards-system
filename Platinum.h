@@ -1,5 +1,4 @@
-/** Kellyn Mendez - CS 2337.003, Project 1
- *      NetID: kpm200000
+/** Platinum Customer class header file
  */
 
 #ifndef PLATINUM_H
